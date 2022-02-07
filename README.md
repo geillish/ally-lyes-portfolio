@@ -20,4 +20,4 @@ I also expanded my Data Science knowledge as I was given the opportunity to take
 
 ## Info About Repo
 
-For security I am going to be keeping all database files off of this repository and I also use an extra settings.py file (which is included in my GitIgnore) in my main Django app for the site which contains all the information for my local database and IP details for mobile testing.
+For security I am going to be keeping all database files off of this repository and I also use an extra settings.py file (which is included in my GitIgnore) in my main Django app for the site which contains all the information for my local database and IP details for mobile testing
